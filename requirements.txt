@@ -2,4 +2,7 @@ streamlit
 numpy
 numpy-financial
 plotly
-pandas 
+pandas
+yfinance
+requests
+beautifulsoup4 
